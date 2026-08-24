@@ -1,0 +1,36 @@
+
+body{
+background-color: rgb(162, 28, 162);
+color:black;
+
+}
+h1{
+    text-align: center;
+    margin-top: 25px;
+}
+.container{
+    width : 25%;
+    height : 50%;
+    background-color:pink;
+    color:black;
+    margin:auto;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 15px;
+   
+}
+#heading{
+    font-weight: 700;
+    margin: 10px;
+}
+
+.input1{
+    margin-top:0.75px;
+}
+.input2{
+    margin-top:0.75px;
+}
+#Ebtn{
+margin-top:10px;
+}
+
