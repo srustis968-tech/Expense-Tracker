@@ -1,2 +1,2 @@
-# new project
+# my first Project
 The Expense Tracker
